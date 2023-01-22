@@ -1,4 +1,4 @@
-# Commercial-Kourrier 📚
+# Minor Project 📚
 ---
 ## Introduction
 
