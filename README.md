@@ -1,6 +1,6 @@
 # Minor Project 📚
 ---
-From Paper to Pixels: A Machine Learning Solution for Sustainable Study Materials
+# From Paper to Pixels: A Machine Learning Solution for Sustainable Study Materials
 
 ## Problem Statement
 
